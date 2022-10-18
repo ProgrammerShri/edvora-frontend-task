@@ -26,7 +26,7 @@ const PlanCard = ({ schedule, colors }) => {
         <Text fontSize={"md"} color={colors.color}>
           {schedule?.title}
         </Text>
-        <Text fontSize={"md"} color={colors.color}>
+        <Text fontSize={"sm"} color={colors.color}>
           {schedule?.subtitle}
         </Text>
         <Text fontSize={"sm"} color={colors.color}>
