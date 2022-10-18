@@ -3,7 +3,7 @@ import { colors } from "./colors";
 export const data = [
   {
     id: "8eebc064-de75-4dce-9dd3-c69459a4d450",
-    date: "Mon Oct 17 2022",
+    date: "Tue Oct 18 2022",
     scheduled: [
       {
         id: "d2439576-abef-44fc-b310-04f98b37a2b9",
@@ -64,7 +64,7 @@ export const data = [
   },
   {
     id: "8eebc064-de75-4dce-9dd3-c6m269a4d450",
-    date: "Tue Oct 18 2022",
+    date: "Wed Oct 19 2022",
     scheduled: [
       {
         id: "d2439576-abef-44fc-b310-04f98b3769b9",
@@ -103,7 +103,7 @@ export const data = [
   },
   {
     id: "8eebc064-de75-4dce-9dd3-c69459a4d450",
-    date: "Wed Oct 19 2022",
+    date: "Thu Oct 20 2022",
     scheduled: [
       {
         id: "d2439576-abef-44fc-b310-04f98b37a2b9",
@@ -142,7 +142,7 @@ export const data = [
   },
   {
     id: "8eebc064-de75-4dce-9dd3-c69459a4d450",
-    date: "Thu Oct 20 2022",
+    date: "Fri Oct 21 2022",
     scheduled: [
       {
         id: "d2439576-abef-44fc-b310-04f98b37a2b9",
@@ -159,7 +159,7 @@ export const data = [
   },
   {
     id: "8eebc064-de75-4dce-9dd3-c69459a4d450",
-    date: "Fri Oct 21 2022",
+    date: "Sat Oct 22 2022",
     scheduled: [
       {
         id: "d2439576-abef-44fc-b310-04f98b37a2b9",
